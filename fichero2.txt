@@ -1,2 +1,6 @@
 "1¦ Linea" 
+<<<<<<< HEAD
 "cambio de fichero2 pero en rama main" 
+=======
+"cambio el fichero en la nueva rama" 
+>>>>>>> nuevaRama
